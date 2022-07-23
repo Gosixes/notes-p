@@ -11,7 +11,7 @@ module.exports = {
     ],
     ['meta', { name: 'theme-color', content: '#11a8cd' }], // 移动浏览器主题颜色
   ],
-  base: '/notes-p',
+  base: '/notes-p/',
   theme: 'vdoing',
   themeConfig: {
     logo: '/img/logo.png', // 导航栏logo
